@@ -54,7 +54,7 @@ Use below buttons to learn more !
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to get id of any user, group, bot, channels and even stickers. by @StarkBots
+A telegram bot to get id of any user, group, bot, channels and even stickers. by @CyniteBots
 
 Source Code : [Contact](https://t.me/CyniteOfficial)
 
