@@ -12,7 +12,6 @@ Using this bot you can get id of any group, user, bot, channel and even stickers
 
 Use below buttons to learn more !
 
-By @StarkBots
     """
 
     # Home Button
@@ -22,13 +21,12 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("📢ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ📢", url="https://t.me/CyniteBots")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ❔", callback_data="help"),
+            InlineKeyboardButton("🎪ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("🔰ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🔰", url="http://t.me/IdInformationBot?startgroup=true")],
     ]
 
     # Help Message
@@ -58,11 +56,11 @@ By @StarkBots
 
 A telegram bot to get id of any user, group, bot, channels and even stickers. by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ID-Bot)
+Source Code : [Contact](https://t.me/CyniteOfficial)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @CyniteOfficial
     """
